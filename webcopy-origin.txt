@@ -1,0 +1,136 @@
+Uri: https://acinneflix.com/?utm_source=FB&utm_campaign=0208+CINNE+CR1+—+Cópia|120234281803630202&utm_medium=0208+CINNE+CR1|120234281803560202&utm_content=0208+CINNE+CR1|120234281803370202&utm_term=Instagram_Stories&utm_id=120234281803630202&fbclid=PAQ0xDSwL7MIhleHRuA2FlbQEwAGFkaWQBqyhxPCn8mgGnGmKeyokl01op7JR6CEAub7SlNuq6xsN2qXq_OXVUzGeovHUQuod0Vuf7oBA_aem_XjBOKhCNnSAxUjrUpuqR-Q
+File Name: C:\Downloaded Web Sites\acinneflix.com\index.htm
+Content Type: text/html
+
+Uri: https://acinneflix.com/js/QkHvtK1094739.js
+File Name: C:\Downloaded Web Sites\acinneflix.com\js\QkHvtK1094739.js
+Content Type: application/javascript
+
+Uri: https://cdn.converteai.net/e56fc760-9cf4-447e-8692-e4d40d0e95a7/662d2de9edccf7000b6ca4f4/main.m3u8
+File Name: C:\Downloaded Web Sites\acinneflix.com\e56fc760-9cf4-447e-8692-e4d40d0e95a7\662d2de9edccf7000b6ca4f4\main.m3u8
+Content Type: application/x-mpegurl
+
+Uri: https://cdn.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js
+File Name: C:\Downloaded Web Sites\acinneflix.com\lib\js\smartplayer\v1\smartplayer.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\acinneflix.com\npm\bootstrap-icons@1.9.1\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf
+File Name: C:\Downloaded Web Sites\acinneflix.com\npm\bootstrap-icons@1.9.1\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf
+File Name: C:\Downloaded Web Sites\acinneflix.com\npm\bootstrap-icons@1.9.1\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Montserrat:wght@300;400;500;600;700;800&family=Montserrat:wght@300;400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\acinneflix.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\acinneflix.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\acinneflix.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\acinneflix.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\acinneflix.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\acinneflix.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\acinneflix.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://images.converteai.net/e56fc760-9cf4-447e-8692-e4d40d0e95a7/players/662d2f0901dc96000b8a72ea/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\acinneflix.com\e56fc760-9cf4-447e-8692-e4d40d0e95a7\players\662d2f0901dc96000b8a72ea\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/CGItrH2435086.webp
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\CGItrH2435086.webp
+Content Type: image/webp
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/eghyfE0193628.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\eghyfE0193628.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/FfBvDm0406250.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\FfBvDm0406250.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/iCPvNG3491786.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\iCPvNG3491786.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/JGPXig0633587.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\JGPXig0633587.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/kCzXqr0695299.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\kCzXqr0695299.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/kPNFHn0228121.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\kPNFHn0228121.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/ktxrBv1247986.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\ktxrBv1247986.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/mqcbsf2128970.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\mqcbsf2128970.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/QrXvdb8072135.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\QrXvdb8072135.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/RrLIdv0512871.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\RrLIdv0512871.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/vMjdwM0268221.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\vMjdwM0268221.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/YpAyAY4578334.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\YpAyAY4578334.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/ERchb5MeeNgJ7vvsrUI8waFOxSf1/Pictures/zpLgCY0615539.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\ERchb5MeeNgJ7vvsrUI8waFOxSf1\Pictures\zpLgCY0615539.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/nN0fnfgjsdhacdNKOThqpMqQh9W2/Pictures/BrXNcL3652478.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\nN0fnfgjsdhacdNKOThqpMqQh9W2\Pictures\BrXNcL3652478.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/nN0fnfgjsdhacdNKOThqpMqQh9W2/Pictures/NqlGqb0462740.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\nN0fnfgjsdhacdNKOThqpMqQh9W2\Pictures\NqlGqb0462740.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/nN0fnfgjsdhacdNKOThqpMqQh9W2/Pictures/sLJkWb5055358.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\nN0fnfgjsdhacdNKOThqpMqQh9W2\Pictures\sLJkWb5055358.png
+Content Type: image/png
+
+Uri: https://media.atomicatpages.net/u/nN0fnfgjsdhacdNKOThqpMqQh9W2/Pictures/zDpYYn0217405.png
+File Name: C:\Downloaded Web Sites\acinneflix.com\u\nN0fnfgjsdhacdNKOThqpMqQh9W2\Pictures\zDpYYn0217405.png
+Content Type: image/png
+
+Uri: https://scripts.converteai.net/e56fc760-9cf4-447e-8692-e4d40d0e95a7/players/662d2f0901dc96000b8a72ea/player.js
+File Name: C:\Downloaded Web Sites\acinneflix.com\e56fc760-9cf4-447e-8692-e4d40d0e95a7\players\662d2f0901dc96000b8a72ea\player.js
+Content Type: text/javascript
+
